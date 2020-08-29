@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dd4d0be-95f4-4d99-aba8-01ccce7aea97" name="Default Changelist" comment="" />
+    <list default="true" id="2a968814-6bd1-4bf2-9f79-749441ec7501" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,21 +14,18 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1gmSOjFYzeVfIDlkLRmFGf5JcUD" />
+  <component name="ProjectId" id="1gn9AEw1JEBLmp4hrhVjDWnz2r8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="ExemploPessoa" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -42,26 +39,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5dd4d0be-95f4-4d99-aba8-01ccce7aea97" name="Default Changelist" comment="" />
-      <created>1598718257475</created>
+      <changelist id="2a968814-6bd1-4bf2-9f79-749441ec7501" name="Default Changelist" comment="" />
+      <created>1598739374519</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598718257475</updated>
+      <updated>1598739374519</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="413" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598726957991">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1598726957991" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1598727000256">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598727000256" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598722328680">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598722328680" />
   </component>
 </project>
